@@ -1,0 +1,54 @@
+#box1 {
+    width: 250px;
+    height: 250px;
+    background-color : red;
+    float: left;
+     margin: 10px;
+    padding: 5px;
+    border: ridge;
+     
+
+    
+}
+#box2 {
+      width: 250px;
+    height: 250px;
+    background-color: blue;
+    float: left;
+     margin: 10px;
+    padding: 5px;
+    border: ridge;
+    
+    
+}
+
+#box3 {
+      width: 250px;
+    height: 250px;
+    background-color: yellow;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    border: ridge;
+}
+
+#box4 {  
+    width: 250px;
+    height: 250px;
+    background-color: green;
+    float: left;
+     margin: 10px;
+    padding: 5px;
+    border: ridge;
+    
+}
+
+#pinepple{
+   font-style: Italic;
+    color: purple;
+}
+
+#myname {
+text-align: center;
+    
+}
